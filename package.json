@@ -1,0 +1,24 @@
+{
+  "name": "thread",
+  "version": "1.0.0",
+  "description": "",
+  "main": "thread.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anarchomeritocrat/thread.git"
+  },
+  "keywords": [
+    "fork",
+    "subprocess",
+    "microservices"
+  ],
+  "author": "elser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anarchomeritocrat/thread/issues"
+  },
+  "homepage": "https://github.com/anarchomeritocrat/thread#readme"
+}
